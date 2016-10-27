@@ -2,13 +2,13 @@
   "name": "config-react-scripts",
   "version": "0.0.1",
   "description": "Custom configs for create-react-app without ejecting.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "gobhi/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/gobhi/create-react-app/issues"
   },
   "files": [
     ".babelrc",
