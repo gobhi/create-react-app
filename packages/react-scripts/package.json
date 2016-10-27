@@ -1,7 +1,7 @@
 {
   "name": "config-react-scripts",
-  "version": "0.7.0",
-  "description": "Configuration and scripts for Create React App.",
+  "version": "0.0.1",
+  "description": "Custom configs for create-react-app without ejecting.",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
